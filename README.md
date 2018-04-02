@@ -1,4 +1,7 @@
 # Education - Uniwise
+**Contributors:**
+This project is in  collaboration with [Arpit Batra](https://www.github.com/ArpitBatra123 "Arpit Batra")
+
 
 **Problem Statement:**
 
